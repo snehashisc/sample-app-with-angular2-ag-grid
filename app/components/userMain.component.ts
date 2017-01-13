@@ -1,0 +1,35 @@
+import { Component,ViewChild } from '@angular/core';
+import {FormsModule} from '@angular/forms';
+import {UserComponent} from './user.component';
+
+
+@Component({
+  
+    selector: 'userMain',
+    template: `<div class="container">
+               <div><span class="header1">Request Queue</span> <button id="btnCreateNew" class="btn btn-primary">Create New</button></div>
+               <hr>
+               <div class="gridContainer">
+               
+               <div class="gridHead">
+               
+               <a href="#">Inbox <span class="badge">42</span></a> 
+               
+               <a href="#">Submitted by me <span class="badge">21</span></a>
+               
+               <span><span class="glyphicon glyphicon-search"></span>
+               <input id="searchTxt" type="text" placeholder="Search">
+               
+               </span>                
+               </div>
+               <user></user>
+               </div>
+               </div>`,
+    directives: [UserComponent]
+               
+    
+   
+})
+export class UserMainComponent {
+  
+  }
