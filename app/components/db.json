@@ -1,0 +1,163 @@
+[{
+	"req": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+}, {
+	"req": "2",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+}, {
+	"req": "3",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Raj",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+}, {
+	"req": "4",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+}, {
+	"req": "5",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+}, {
+	"req": "6",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Raj",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"req": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Raj",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"req": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Raj",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"req": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"req": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "Shawn",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Progress"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE242223",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Progress"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE242223",
+	"SubmittedBy": "Raj",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE242223",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Progress"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Upload",
+	"AccountNumber": "A4Q675WQE123312",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Completed"
+},
+{
+	"#": "1",
+	"RequestType": "GLM-Download",
+	"AccountNumber": "A4Q675WQE242223",
+	"SubmittedBy": "John",
+	"CreatedOn": "12/11/2016 09:30AM",
+	"Status": "Progress"
+}]
